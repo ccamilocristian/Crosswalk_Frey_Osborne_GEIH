@@ -13,6 +13,9 @@ Metodología:
 
 
 [^1] Occupational Information Network
+
 [^2] Hardy, W. (2016). IBS. Obtenido de Occupation classifications crosswalks – from O*NET-SOC to ISCO: https://ibs.org.pl/en/resources/occupation-classifications-crosswalks-from-onet-soc-to-isco/
+
 [^3] OIT. (2008). Estructura de la CIUO-08 y concordancias previas con la CIUO-88. Obtenido de OIT: https://www.ilo.org/public/spanish/bureau/stat/isco/isco08/index.htm
+
 [^4] DANE (2005). Clasificación Internacional Uniforme de Ocupaciones Adaptada para Colombia CIUO-88 A. C. Bogotá D.C.: DANE
